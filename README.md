@@ -82,8 +82,6 @@ Profit shares from the Employee Profit Pool will be allocated proportionally bas
 ---
 
 ## Visual Summary Tree (SMC)
-
-Visual Summary Tree (SMC)
 ```
 100 PKR (Total Customer Payment)
 ├─ 10 PKR (10%) Referral Commission → Paid to Referrer
