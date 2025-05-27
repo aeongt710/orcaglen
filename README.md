@@ -1,4 +1,4 @@
-# OrcaGlen Profit & Incentive Policy (SMC - Draft v1.3)
+# OrcaGlen Profit & Incentive Policy (SMC - Draft v1.4)
 
 **Effective Date:** TBD
 
@@ -40,10 +40,14 @@
 ## 4. Profit Allocation (Post-Tax)
 
 - Owner Draw: **50 %** → 18.7 PKR  
-- Employee Profit Pool: **36 %** → 13.5 PKR  
-- Growth/Reserve Fund: **14 %** → 5.2 PKR  
+- **Initial Employee Fixed Share: 10 %** → 3.74 PKR  
+- Employee Profit Pool: **26 %** → 9.74 PKR  
+- Growth/Reserve Fund: **20 %** → 7.48 PKR  
 
-**Note:** The Employee Profit Pool will be distributed **only among employees actively engaged in the specific project(s) or product(s) generating the profit** (e.g., ERPNext, SMS, Hospital). Employees not involved in those projects during the profit period will not receive a share from that pool.
+**Note:** The Employee Profit Pool (26%) plus Initial Employee Fixed Share (10%) totals the previous 36% allocated to employees.  
+The Initial Employee Fixed Share of 10% is guaranteed to employees regardless of evaluation; the remaining Employee Profit Pool is distributed based on performance.
+
+**Also Note:** The Employee Profit Pool and Initial Fixed Share will be distributed **only among employees actively engaged in the specific project(s) or product(s) generating the profit** (e.g., ERPNext, SMS, Hospital). Employees not involved in those projects during the profit period will not receive a share from those pools.
 
 ---
 
@@ -63,14 +67,14 @@
 
 ## 7. Employee Evaluation and Profit Distribution
 
-Employees will be evaluated for profit-sharing based on transparent criteria such as:
+Employees will be evaluated for profit-sharing from the **Employee Profit Pool (26%)** based on transparent criteria such as:
 
 - Performance and goal achievement  
 - Seniority and experience  
 - Role criticality and contribution  
 - Attendance and reliability  
 
-Profit shares from the Employee Profit Pool will be allocated proportionally based on evaluation scores.
+Profit shares from the Employee Profit Pool will be allocated proportionally based on evaluation scores. The Initial Employee Fixed Share (10%) is distributed equally among eligible employees.
 
 ---
 
@@ -82,20 +86,24 @@ Profit shares from the Employee Profit Pool will be allocated proportionally bas
 ---
 
 ## Visual Summary Tree (SMC)
+
 ```
 100 PKR (Total Customer Payment)
-├─ 10 PKR (10%) Referral Commission → Paid to Referrer
-├─ 5 PKR (5%) Punjab Sales Tax → Remitted to PRA
-└─ 85 PKR (85%) Company Revenue (Net)
-   ├─ 38.25 PKR (45%) Operating Costs
-   │    ├─ 12.75 PKR (15%) Infrastructure & Operations
-   │    └─ 25.5 PKR (30%) Employee-Related Expenses (incl. founder dev salary)
-   └─ 46.75 PKR (55%) Operating Profit (Pre-Tax)
-        ├─ 9.35 PKR (20%) Corporate Tax (SMC rate)
-        └─ 37.4 PKR Profit After Tax
-            ├─ 18.7 PKR (50%) Owner Draw
-            ├─ 13.5 PKR (36%) Employee Profit Pool*
-            └─ 5.2 PKR (14%) Growth/Reserve Fund
-
-*Distributed only among employees engaged in the relevant project(s)/product(s).
+├─ 10 PKR (10%) Referral Commission
+│     └─ Paid monthly to referrer before any deductions
+├─ 5 PKR (5%) Punjab Sales Tax
+│     └─ Remitted to Punjab Revenue Authority (PRA)
+└─ 85 PKR (85%) Net Company Revenue
+     ├─ 38.25 PKR (45%) Operating Costs
+     │     ├─ 12.75 PKR (15%) Infrastructure & Operations
+     │     │      └─ Cloud, software licenses, office, travel, utilities
+     │     └─ 25.5 PKR (30%) Employee-Related Expenses
+     │            └─ Salaries, benefits, training (including founder dev salary)
+     └─ 46.75 PKR (55%) Operating Profit (Pre-Tax)
+           ├─ 9.35 PKR (20%) Corporate Income Tax (SMC rate)
+           └─ 37.4 PKR (80%) Profit After Tax
+                ├─ 18.7 PKR (50%) Owner Draw
+                ├─ 3.74 PKR (10%) Initial Employee Fixed Share
+                ├─ 7.48 PKR (20%) Employee Profit Pool (performance-based)
+                └─ 7.48 PKR (20%) Growth / Reserve Fund
 ```
