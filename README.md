@@ -1,4 +1,4 @@
-# OrcaGlen Profit & Incentive Policy (SMC - Draft v1.4)
+# OrcaGlen Profit & Incentive Policy (SMC - Final v1.6)
 
 **Effective Date:** TBD
 
@@ -40,14 +40,11 @@
 ## 4. Profit Allocation (Post-Tax)
 
 - Owner Draw: **50 %** → 18.7 PKR  
-- **Initial Employee Fixed Share: 10 %** → 3.74 PKR  
-- Employee Profit Pool: **26 %** → 9.74 PKR  
+- Initial Employee Fixed Share: **10 %** → 3.74 PKR  
+- Employee Profit Pool: **20 %** → 7.48 PKR  
 - Growth/Reserve Fund: **20 %** → 7.48 PKR  
 
-**Note:** The Employee Profit Pool (26%) plus Initial Employee Fixed Share (10%) totals the previous 36% allocated to employees.  
-The Initial Employee Fixed Share of 10% is guaranteed to employees regardless of evaluation; the remaining Employee Profit Pool is distributed based on performance.
-
-**Also Note:** The Employee Profit Pool and Initial Fixed Share will be distributed **only among employees actively engaged in the specific project(s) or product(s) generating the profit** (e.g., ERPNext, SMS, Hospital). Employees not involved in those projects during the profit period will not receive a share from those pools.
+**Note:** The Employee Profit Pool and Initial Employee Fixed Share will be distributed **only among employees actively engaged in the specific project(s) or product(s) generating the profit** (e.g., ERPNext, SMS, Hospital). Employees not involved in those projects during the profit period will not receive a share from those pools.
 
 ---
 
@@ -67,7 +64,7 @@ The Initial Employee Fixed Share of 10% is guaranteed to employees regardless of
 
 ## 7. Employee Evaluation and Profit Distribution
 
-Employees will be evaluated for profit-sharing from the **Employee Profit Pool (26%)** based on transparent criteria such as:
+Employees will be evaluated for profit-sharing from the **Employee Profit Pool (20%)** based on transparent criteria such as:
 
 - Performance and goal achievement  
 - Seniority and experience  
@@ -75,6 +72,18 @@ Employees will be evaluated for profit-sharing from the **Employee Profit Pool (
 - Attendance and reliability  
 
 Profit shares from the Employee Profit Pool will be allocated proportionally based on evaluation scores. The Initial Employee Fixed Share (10%) is distributed equally among eligible employees.
+
+### Point-Based Performance System Example
+
+| Criteria             | Max Points | Description                                   |
+|----------------------|------------|-----------------------------------------------|
+| Performance          | 40         | Achievement of goals, quality of work, KPIs   |
+| Experience & Seniority | 20         | Years with company, relevant skills           |
+| Role & Contribution   | 25         | Impact, leadership, teamwork, initiative      |
+| Attendance & Reliability | 15         | Punctuality, presence, dependability          |
+| **Total**             | **100**    |                                               |
+
+Each employee receives scores on each criterion, summed to calculate a total out of 100. Profit share is proportional to the employee’s total points relative to all participating employees.
 
 ---
 
