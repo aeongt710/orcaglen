@@ -97,6 +97,13 @@ Each employee receives scores on each criterion, summed to calculate a total out
 
 ---
 
+
+## 9. General Note
+
+These policies are subject to change as the company evolves, regulatory requirements change, or market conditions shift. All updates will be communicated transparently and require stakeholder agreement.
+
+---
+
 ## Visual Summary Tree (SMC)
 
 ```
