@@ -1,4 +1,4 @@
-# OrcaGlen Profit & Incentive Policy (SMC - Final v1.7)
+# OrcaGlen Profit & Incentive Policy (SMC - Final v1.6)
 
 **Effective Date:** TBD
 
@@ -74,7 +74,19 @@ Employees will be evaluated for profit-sharing from the **Employee Profit Pool (
 - Role criticality and contribution  
 - Attendance and reliability  
 
-Profit shares from the Employee Profit Pool will be allocated proportionally based on evaluation scores. The Initial Employee Fixed Share (10%) is distributed equally among eligible employees who meet the 1.5-year minimum service period.
+Profit shares from the Employee Profit Pool will be allocated proportionally based on evaluation scores. The Initial Employee Fixed Share (10%) is distributed equally among eligible employees.
+
+### Point-Based Performance System Example
+
+| Criteria             | Max Points | Description                                   |
+|----------------------|------------|-----------------------------------------------|
+| Performance          | 40         | Achievement of goals, quality of work, KPIs   |
+| Experience & Seniority | 20         | Years with company, relevant skills           |
+| Role & Contribution   | 25         | Impact, leadership, teamwork, initiative      |
+| Attendance & Reliability | 15         | Punctuality, presence, dependability          |
+| **Total**             | **100**    |                                               |
+
+Each employee receives scores on each criterion, summed to calculate a total out of 100. Profit share is proportional to the employee’s total points relative to all participating employees.
 
 ---
 
@@ -86,7 +98,6 @@ Profit shares from the Employee Profit Pool will be allocated proportionally bas
 ---
 
 ## Visual Summary Tree (SMC)
-
 
 ```
 100 PKR (Total Customer Payment)
